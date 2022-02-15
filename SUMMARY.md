@@ -21,7 +21,6 @@
 * [Terminológiánk](nem-art-ha-tudod/terminologiank.md)
 * [Skálázhatóság](nem-art-ha-tudod/skalazhatosag.md)
 * [Összehasonlítás](nem-art-ha-tudod/oesszehasonlitas.md)
-* [Untitled](nem-art-ha-tudod/untitled.md)
 
 ## Használati útmutató
 

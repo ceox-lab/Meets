@@ -1,7 +1,7 @@
 ---
 description: A világon több ezer elégedett ügyféllel, és most már veled is.
 cover: .gitbook/assets/joga1.jpg
-coverY: -123.23232323232324
+coverY: 0
 ---
 
 # Kapcsolattartás
