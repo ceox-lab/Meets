@@ -1,0 +1,2 @@
+# Ajánlott futtatási környezet
+
