@@ -38,16 +38,16 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="felhasznalasi-terueletek/oktatasban.md" %}
-[oktatasban.md](felhasznalasi-terueletek/oktatasban.md)
+{% content-ref url="felhasznalasi-terueletek/oktatas.md" %}
+[oktatas.md](felhasznalasi-terueletek/oktatas.md)
 {% endcontent-ref %}
 
-{% content-ref url="felhasznalasi-terueletek/hibrid-munkaban.md" %}
-[hibrid-munkaban.md](felhasznalasi-terueletek/hibrid-munkaban.md)
+{% content-ref url="felhasznalasi-terueletek/hibrid-munka.md" %}
+[hibrid-munka.md](felhasznalasi-terueletek/hibrid-munka.md)
 {% endcontent-ref %}
 
-{% content-ref url="felhasznalasi-terueletek/megbeszelesekben.md" %}
-[megbeszelesekben.md](felhasznalasi-terueletek/megbeszelesekben.md)
+{% content-ref url="felhasznalasi-terueletek/megbeszeles.md" %}
+[megbeszeles.md](felhasznalasi-terueletek/megbeszeles.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

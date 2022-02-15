@@ -4,15 +4,24 @@
 
 ## Felhasználási területek
 
-* [Oktatásban](felhasznalasi-terueletek/oktatasban.md)
-* [Hibrid munkában](felhasznalasi-terueletek/hibrid-munkaban.md)
-* [Megbeszélésekben](felhasznalasi-terueletek/megbeszelesekben.md)
-* [Page 1](felhasznalasi-terueletek/page-1.md)
+* [Oktatás](felhasznalasi-terueletek/oktatas.md)
+* [Prezentálás](felhasznalasi-terueletek/prezentalas.md)
+* [Hibrid munka](felhasznalasi-terueletek/hibrid-munka.md)
+* [Megbeszélés](felhasznalasi-terueletek/megbeszeles.md)
 
-## Nem árt tudni
+## Szolgáltatás árak
 
-* [Ajánlott futtatási környezet](nem-art-tudni/ajanlott-futtatasi-koernyezet.md)
-* [Terminológia](nem-art-tudni/terminologia.md)
+* [Meets basic](szolgaltatas-arak/meets-basic.md)
+* [Meets pro](szolgaltatas-arak/meets-pro.md)
+* [Meets Enterprise](szolgaltatas-arak/meets-enterprise.md)
+
+## Nem árt, ha tudod
+
+* [Ajánlott futtatási környezet](nem-art-ha-tudod/ajanlott-futtatasi-koernyezet.md)
+* [Terminológiánk](nem-art-ha-tudod/terminologiank.md)
+* [Skálázhatóság](nem-art-ha-tudod/skalazhatosag.md)
+* [Összehasonlítás](nem-art-ha-tudod/oesszehasonlitas.md)
+* [Untitled](nem-art-ha-tudod/untitled.md)
 
 ## Használati útmutató
 
@@ -23,6 +32,7 @@
 
 ## Élethelyzetek
 
+* [Új felhasználó konferenciát indít](elethelyzetek/uj-felhasznalo-konferenciat-indit.md)
 * [For Designers](elethelyzetek/for-designers/README.md)
   * [Figma Integration](elethelyzetek/for-designers/figma-integration.md)
 * [For Engineers](elethelyzetek/for-engineers/README.md)
@@ -32,7 +42,7 @@
 
 ## Üzemeltetés
 
-* [Üzemeltető](uezemeltetes/uezemelteto.md)
+* [Üzemeltetőről](uezemeltetes/uezemeltetorol.md)
 * [SLO](uezemeltetes/slo.md)
 * [Biztonság](uezemeltetes/biztonsag.md)
 * [Helyreállítási terv](uezemeltetes/helyreallitasi-terv.md)
