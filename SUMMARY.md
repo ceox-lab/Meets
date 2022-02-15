@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Kapcsolattartás](README.md)
+* [Mi a Meets?](README.md)
 
 ## Felhasználási területek
 

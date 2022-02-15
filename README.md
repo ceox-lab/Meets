@@ -4,7 +4,9 @@ cover: .gitbook/assets/joga1.jpg
 coverY: 0
 ---
 
-# Kapcsolattartás
+# Mi a Meets?
+
+## Kapcsolat a világon több ezer elégedett ügyféllel, és most már veled is.
 
 Erősítsen kapcsolatokat, fokozza az együttműködést, és teremtsen lenyűgöző találkozóélményt HD videóval és hanggal akár 1000 résztvevő számára.
 
