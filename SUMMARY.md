@@ -41,6 +41,7 @@
 
 ## Üzemeltetés
 
+* [Page 1](uezemeltetes/page-1.md)
 * [Üzemeltetőről](uezemeltetes/uezemeltetorol.md)
 * [SLO](uezemeltetes/slo.md)
 * [Biztonság](uezemeltetes/biztonsag.md)
