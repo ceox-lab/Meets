@@ -60,12 +60,6 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-*
-
-
-
-*
-
 {% content-ref url="hasznalati-utmutato/resztvevoknek/" %}
 [resztvevoknek](hasznalati-utmutato/resztvevoknek/)
 {% endcontent-ref %}
