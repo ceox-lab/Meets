@@ -5,12 +5,12 @@
 ## Felhasználási területek
 
 * [Hibrid munka](felhasznalasi-terueletek/hibrid-munka.md)
-* [Oktatás vagy prezentálás](felhasznalasi-terueletek/oktatas-vagy-prezentalas.md)
+* [Oktatás vagy prezentálás](felhasznalasi-terueletek/oktatas.md)
 * [Megbeszélés](felhasznalasi-terueletek/megbeszeles.md)
 
 ## Szolgáltatás árak
 
-* [Meets basic](szolgaltatas-arak/meets-basic.md)
+* [Összehasonlítás](szolgaltatas-arak/oesszehasonlitas.md)
 * [Meets pro](szolgaltatas-arak/meets-pro.md)
 * [Meets Enterprise](szolgaltatas-arak/meets-enterprise.md)
 

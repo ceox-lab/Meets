@@ -1,5 +1,5 @@
 ---
-description: A fizikai és a digitális világ csatlakoztatása
+description: A fizikai és a digitális világ összekapcsolása
 ---
 
 # Hibrid munka
