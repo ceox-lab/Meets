@@ -11,8 +11,7 @@
 ## Szolgáltatás árak
 
 * [Árak](szolgaltatas-arak/arak.md)
-* [Meets pro](szolgaltatas-arak/meets-pro.md)
-* [Meets Enterprise](szolgaltatas-arak/meets-enterprise.md)
+* [Támogatott országok](szolgaltatas-arak/tamogatott-orszagok.md)
 
 ## Nem árt, ha tudod
 
