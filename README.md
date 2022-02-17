@@ -36,6 +36,57 @@ Here are a couple of examples of succinct overviews from products with really gr
 **Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
 {% endhint %}
 
+```
+// Some code
+gfgfg
+gf
+gf
+gf
+sudo -s
+```
+
+{% tabs %}
+{% tab title="First Tab" %}
+dsds
+
+d
+
+sds
+
+ds
+
+ds
+
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+dsds
+
+d
+
+sd
+
+s
+
+ds
+
+d
+{% endtab %}
+{% endtabs %}
+
+<details>
+
+<summary>fdfdfdfdfd fd df</summary>
+
+&#x20; fd df dfdf df&#x20;
+
+&#x20;fd df df df df&#x20;
+
+
+
+</details>
+
 ### Guides: Jump right in
 
 Follow our handy guides to get started on the basics as quickly as possible:
