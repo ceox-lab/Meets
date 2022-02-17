@@ -10,7 +10,7 @@
 
 ## Szolgáltatás árak
 
-* [Összehasonlítás](szolgaltatas-arak/meets-basic.md)
+* [Árak](szolgaltatas-arak/arak.md)
 * [Meets pro](szolgaltatas-arak/meets-pro.md)
 * [Meets Enterprise](szolgaltatas-arak/meets-enterprise.md)
 
