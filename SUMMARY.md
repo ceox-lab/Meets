@@ -4,9 +4,8 @@
 
 ## Felhasználási területek
 
-* [Oktatás](felhasznalasi-terueletek/oktatas.md)
-* [Prezentálás](felhasznalasi-terueletek/prezentalas.md)
 * [Hibrid munka](felhasznalasi-terueletek/hibrid-munka.md)
+* [Oktatás vagy prezentálás](felhasznalasi-terueletek/oktatas-vagy-prezentalas.md)
 * [Megbeszélés](felhasznalasi-terueletek/megbeszeles.md)
 
 ## Szolgáltatás árak

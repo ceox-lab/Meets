@@ -40,8 +40,8 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="felhasznalasi-terueletek/oktatas.md" %}
-[oktatas.md](felhasznalasi-terueletek/oktatas.md)
+{% content-ref url="felhasznalasi-terueletek/oktatas-vagy-prezentalas.md" %}
+[oktatas-vagy-prezentalas.md](felhasznalasi-terueletek/oktatas-vagy-prezentalas.md)
 {% endcontent-ref %}
 
 {% content-ref url="felhasznalasi-terueletek/hibrid-munka.md" %}
