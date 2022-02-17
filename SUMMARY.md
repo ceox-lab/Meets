@@ -45,3 +45,4 @@
 * [SLO](uezemeltetes/slo.md)
 * [Biztonság](uezemeltetes/biztonsag.md)
 * [Helyreállítási terv](uezemeltetes/helyreallitasi-terv.md)
+* [Kapcsolat](uezemeltetes/kapcsolat.md)

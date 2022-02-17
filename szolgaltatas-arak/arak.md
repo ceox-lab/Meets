@@ -13,8 +13,8 @@ description: Szolgáltatások összehasonlításával
 | Termek maximális száma                                    | 5         | 100       | 1000      |   |   |
 | Megbeszélések száma                                       | Korlátlan | Korlátlan | Korlátlan |   |   |
 | Élő közvetítés a domainen belül                           | -         | -         | 100 000   |   |   |
-| Napi mentés tárolási tartama                              | 14 nap    | 100 GB    | 1 TB      |   |   |
-| Visszatöltés határideje                                   | 4 óra     | 1 nap     | 48 óra    |   |   |
+| Napi mentés tárolási tartama                              | 14 nap    | 200 GB    | 1 TB      |   |   |
+| Visszatöltés határideje                                   | 48 óra    | 1 nap     | 4 óra     |   |   |
 
 <table data-header-hidden><thead><tr><th></th><th data-type="checkbox">Alap</th><th data-type="checkbox">Pro</th><th data-type="checkbox">Egyedi</th></tr></thead><tbody><tr><td>Csatlakozás böngészőből</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Külső résztvevők meghívása</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Élő feliratozás</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Képernyő megosztása és bemutatók</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Személyre szabható elrendezések</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Megbeszélések elmenthetők</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Intelligens zajszűrés</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Betárcsázási telefonszámok (<a href="tamogatott-orszagok.md">támogatott országok</a>)</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Jelentkezés</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Csoportszoba</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Szavazás</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Véletlenszerű felhasználó kiválasztás</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Részvételi jelentés</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Közös rajztábla</td><td>false</td><td>true</td><td>true</td></tr></tbody></table>
 
@@ -22,6 +22,11 @@ description: Szolgáltatások összehasonlításával
 
 <table><thead><tr><th></th><th data-type="checkbox">Alap</th><th data-type="checkbox">Pro</th><th data-type="checkbox">Egyedi</th></tr></thead><tbody><tr><td>Kétlécsős azonosítás</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Titkosítás</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Váróterem</td><td>false</td><td>true</td><td>true</td></tr></tbody></table>
 
-Ügyfélszolgálat
+### Ügyfélszolgálat
 
-Árak
+### Árak
+
+|                      | Alap | Pro | Egyedi                                  |
+| -------------------- | ---- | --- | --------------------------------------- |
+| Euro/Előfizető/hónap | 14   | 24  | [Keress!](../uezemeltetes/kapcsolat.md) |
+| Euro/Felhasználó/Év  | 140  | 240 | [Keress!](../uezemeltetes/kapcsolat.md) |
