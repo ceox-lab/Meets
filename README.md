@@ -6,7 +6,7 @@ coverY: 0
 
 # Mi a Meets?
 
-## Kapcsolat teremtést támogató eszköz a világon több ezer elégedett ügyféllel, és most már veled is.
+## Kapcsolat teremtést támogató eszköz a világon több tízezer elégedett ügyféllel, és most már veled is.
 
 Erősítsen kapcsolatokat, fokozza az együttműködést, és teremtsen lenyűgöző találkozóélményt HD videóval és hanggal akár 1000 résztvevő számára.
 
