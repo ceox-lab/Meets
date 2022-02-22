@@ -1,5 +1,5 @@
 ---
-description: A világon több ezer elégedett ügyféllel, és most már veled is.
+description: Webkonferencia Rendszer
 cover: .gitbook/assets/joga1.jpg
 coverY: 0
 ---
