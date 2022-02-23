@@ -28,7 +28,7 @@ Nincs letöltendő plugin, nincs telepítendő szoftver. A Meets kiváló minős
 
 A WebRTC egy szabvány, amelyet minden nagyobb böngésző támogat, beleértve a Chrome-ot, a FireFox-ot, a Safarit és a Safari Mobile-t. A legjobb eredmény elérése érdekében asztali számítógépeken és laptopokon a Chrome, a Microsoft Edge vagy a Firefox használatát javasoljuk. Chromebookokhoz pedig a beépített Chromeot.
 
-Íme egy képernyőkép a Google Chrome-ban futó Meets előadóadásról:
+Íme egy képernyőkép a Google Chrome-ban futó Meets előadásról:
 
 ![Balról jobbra láthatjod a munkamenetben részt vevő felhasználók listáját, a csevegési területet, a prezentációs területet (melyet az aktuális előadó frissíthet), egy webkamera képét és az E-táblát és eszközeit.](<.gitbook/assets/Screenshot 2022-02-23 21.59.33.png>)
 
