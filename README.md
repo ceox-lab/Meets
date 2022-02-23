@@ -40,6 +40,10 @@ Futtatás minimális követelménye iOS 12.2+ vagy Android 6.0+ verzió. A munka
 
 Íme egy képernyőkép a Meetsről, amely iOS-telefonon, fekvő módban fut.
 
+![](.gitbook/assets/IMG\_6711.PNG)
+
+A mobil kliensekre vonatkozó egyetlen korlátozás az, hogy a mobil böngészők nem támogatják a mobil képernyőjének megosztását (bár megtekintheti egy másik felhasználó képernyőmegosztását).
+
 ## Getting Started
 
 **Got 2 minutes?** Check out a video overview of our product:
@@ -49,45 +53,6 @@ Futtatás minimális követelménye iOS 12.2+ vagy Android 6.0+ verzió. A munka
 {% hint style="info" %}
 **Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
 {% endhint %}
-
-```
-// Some code
-gfgfg
-gf
-gf
-gf
-sudo -s
-```
-
-{% tabs %}
-{% tab title="First Tab" %}
-dsds
-
-d
-
-sds
-
-ds
-
-ds
-
-
-{% endtab %}
-
-{% tab title="Second Tab" %}
-dsds
-
-d
-
-sd
-
-s
-
-ds
-
-d
-{% endtab %}
-{% endtabs %}
 
 <details>
 
