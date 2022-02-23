@@ -1,30 +1,44 @@
 ---
 description: Webkonferencia Rendszer
 cover: .gitbook/assets/joga1.jpg
-coverY: 0
+coverY: -210.69958847736623
 ---
 
 # Mi a Meets?
 
-## Kapcsolat teremtést támogató eszköz a világon több tízezer elégedett ügyféllel, és most már veled is.
+## Egy kapcsolat a világon több tízezer elégedett ügyféllel, és most már veled is.
 
-Erősítsen kapcsolatokat, fokozza az együttműködést, és teremtsen lenyűgöző találkozóélményt HD videóval és hanggal akár 1000 résztvevő számára.
+A [**Meets-ben**](https://meets.team) minden olyan alapvető funkció megtalálható, amely egy kereskedelmi webkonferencia-rendszertől elvárható, beleértve a hang, videó, prezentáció és képernyő valós idejű megosztását – valamint az együttműködési eszközöket, például a chat. (nyilvános és privát), tábla, megosztott jegyzetek, szavazó- és szekciószobák, diktálás. A munkamenetei rögzíthetőek későbbi lejátszáshoz. Támogatott egy felhasználó több kemera használata egyszerre.
+
+A megosztás minősége lenyűgöző. UHD videóátvitellel és CD minőségű hanggal akár 1000 résztvevőnek vagy 100 000 külső nézőnek is lehetősége van bekapcsolódni a konferenciába.
 
 {% hint style="info" %}
-**Terminológia:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
+Szeretnéd kipróbálni? Látogasd meg weboldalunkat ([meets.team](https://meets.team/b/signup)) és regisztrálj! Most 14 napig ingyen használhatod.
 {% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+## Áttekintés
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+A Meets kiterjeszti az alapvető funkciókat az online tanuláshoz. Egy oktató például lehetővé teheti, hogy a többfelhasználós táblán közvetlenül együttműködjön a tanulóval egy matematikai feladat megoldásán. A BigBlueButton mélyreható integrációval rendelkezik az összes fő tanuláskezelő rendszerrel (LMS). Támogatja a Learning Tools Interoperability (LTI) 1.0-t is a többi LMS rendszerrel való integrációhoz.&#x20;
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+Rendelkezésre állnak interfészek a következő rendszerekhez: Atutor, Canvas, Chamilio, Drupal, Docebo, Fedena,Foswiki, Iserv, Jenzabar, LTI, Moodle, Nextcloud, Redmine, Openolat, Sakai, Schoology, Tiki, Wordpress. Kiemelt támogatással a [Netsuli.net](https://netsuli.net).
+
+&#x20;A Meets egy HTML5-alapú webalkalmazás. Ellentétben sok kereskedelmi webkonferencia-rendszerrel, amelyhez szoftver telepítése szükséges, a Meets a webböngészőben fut. A munkamenethez csatlakozáshoz elég rákattintani a Teremhez generált megosztható linkre.
+
+Nincs letöltendő plugin, nincs telepítendő szoftver. A Meets kiváló minőségű hang-, videó- ​​és képernyőmegosztást biztosít a böngésző beépített webes valós idejű kommunikációs (WebRTC) könyvtárainak támogatásával.
+
+A WebRTC egy szabvány, amelyet minden nagyobb böngésző támogat, beleértve a Chrome-ot, a FireFox-ot, a Safarit és a Safari Mobile-t. A legjobb eredmény elérése érdekében asztali számítógépeken és laptopokon a Chrome, a Microsoft Edge vagy a Firefox használatát javasoljuk. Chromebookokhoz pedig a beépített Chromeot.
+
+Íme egy képernyőkép a Google Chrome-ban futó Meets előadóadásról:
+
+![Balról jobbra láthatjod a munkamenetben részt vevő felhasználók listáját, a csevegési területet, a prezentációs területet (melyet az aktuális előadó frissíthet), egy webkamera képét és az E-táblát és eszközeit.](<.gitbook/assets/Screenshot 2022-02-23 21.59.33.png>)
+
+## Mobil támogatás
+
+A Meets reszponzív felhasználói felületete (UI) úgy lett tervezve, hogy minden mobil felületen használható legyen. Az asztali számítógépekhez hasonlóan itt sincs letöltendő vagy telepítendő mobilalkalmazás. A Meets a mobilböngészőben fut.
+
+Futtatás minimális követelménye iOS 12.2+ vagy Android 6.0+ verzió. A munkamenethez való csatlakozáshoz kattints egy linkre a mobil mail rendszerében, vagy másold a linket a böngészőbe és a Meets a Safarin (iOS) vagy a Google Chrome-on (Android) futni fog.
+
+Íme egy képernyőkép a Meetsről, amely iOS-telefonon, fekvő módban fut.
 
 ## Getting Started
 
