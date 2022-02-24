@@ -12,14 +12,16 @@ A [**Meets-ben**](https://meets.team) minden olyan alapvető funkció megtalálh
 
 A megosztás minősége lenyűgöző. UHD videóátvitellel és CD minőségű hanggal akár 1000 aktív résztvevőnek lehetősége van bekapcsolódni a konferenciába, melyet több millió külső nézővel oszthatunk meg élőben.
 
-### **Biztonság mindenek előtt!**&#x20;
+### **Biztonság és robosztusság mindenek előtt!**&#x20;
 
 * Kommunikáció a végpontok között katonai szintű titkosítással védett csatornákon zajlik.&#x20;
 * A szervereken tárolt adatok is katonai szinten titkosított partíciókon tárolódnak.&#x20;
-* Semmilyen adat nem kerül megosztásra harmadik féllel.
-* Belépéshez vagy regisztrációhoz a legbiztonságosabb Oauth kulcspár ellenőrzés is használható a hagyományos felhasználónév-jelszó páros megadása mellett /helyett.
+* Semmilyen adat nem kerül megosztásra harmadik féllel. Üzemeltető a [`Ceox`](https://www.ceox.hu).
+* Belépéshez vagy regisztrációhoz a legbiztonságosabb Oauth kulcspár ellenőrzés is használható a hagyományos felhasználónév-jelszó páros megadása mellett / helyett.
+* A Rendszer hiba és terheléstűrő (99.99% SLO)
+* A Rendszer a résztvevő fizikai helyéhez legközelebbi szervert választja ki automatikusan a kommunikációhoz.
 
-{% hint style="success" %}
+{% hint style="info" %}
 Szeretnéd kipróbálni? Látogasd meg weboldalunkat, ([meets.team](https://meets.team/b/signup)) regisztrálj! és 14 napig ingyen kipróbálhatod.
 {% endhint %}
 
@@ -63,7 +65,7 @@ A Meets számos alapvető webkonferencia funkciót kibővít, hogy lehetővé te
 Oktató / Előadói munkát a következő interakciókkal segíti a Meets:
 
 * Többfelhasználós tábla
-* Szekciószobák (csoportos és egyéni)
+* Csoporttermek (csoportos és egyéni)
 * Csevegés (nyilvános és privát)
 * Szavazás
 * Megosztott jegyzetek
@@ -72,9 +74,9 @@ Oktató / Előadói munkát a következő interakciókkal segíti a Meets:
 * Diktálás, feliratozás
 * Csevegés (csoportos/privát)
 
-Az interakciók célja a tanulás elősegítése a [Bloom-féle taxonómia](https://en.wikipedia.org/wiki/Bloom's\_taxonomy) keretrendszer szerint. Ilyenek az olyan tevékenységek, amelyek hatására a felhasználó felidézi (például szavazásra válaszol), demonstrál (például többfelhasználós tábla használata), jelentkezik (például a csoportszobákban) vagy kérdéseket tesz fel. (például nyilvános csevegés használatával)  Minél többet foglalkoznak a tanulókkal, annál többet gondolkodnak és tanulnak.
+Az interakciók célja a tanulás elősegítése a [Bloom-féle taxonómia](https://en.wikipedia.org/wiki/Bloom's\_taxonomy) keretrendszer szerint. Ezek azok a tevékenységek, amelyek hatására a felhasználó felidézi az anyagot (például szavazásra válaszol), demonstrál (például többfelhasználós tábla használata), jelentkezik (például a csoportszobákban) vagy kérdéseket tesz fel. (például nyilvános csevegés használatával)  Minél többet foglalkoznak a tanulókkal, azok annál többet gondolkodnak és tanulnak.
 
-Ezek a funkciók hasznosak az üzleti megbeszéléseken, videocsevegéseken vagy audiokonferenciákon – de a leghasznosabbak a felhasználók online oktatása, vagy egy nagyobb előadás során.
+.Ezek a funkciók egyaránt hasznosak lehetnek az üzleti megbeszéléseken, videocsevegéseken vagy audiokonferenciákon is – de az előnyük a felhasználók online oktatása, vagy egy nagyobb előadás során mutatkozhat meg igazán.
 
 ## Meets terminológia
 
