@@ -10,9 +10,16 @@ coverY: -210.69958847736623
 
 A [**Meets-ben**](https://meets.team) minden olyan alapvető funkció megtalálható, amely egy kereskedelmi webkonferencia-rendszertől elvárható, beleértve a hang, videó, prezentáció és képernyő valós idejű megosztását – valamint az együttműködési eszközöket, például a chat. (nyilvános és privát), tábla, megosztott jegyzetek, szavazó- és szekciószobák, diktálás. A munkamenetei rögzíthetőek későbbi lejátszáshoz. Támogatott egy felhasználó több kemera használata egyszerre.
 
-A megosztás minősége lenyűgöző. UHD videóátvitellel és CD minőségű hanggal akár 1000 résztvevőnek vagy 100 000 külső nézőnek is lehetősége van bekapcsolódni a konferenciába.
+A megosztás minősége lenyűgöző. UHD videóátvitellel és CD minőségű hanggal akár 1000 aktív résztvevőnek lehetősége van bekapcsolódni a konferenciába, melyet több millió külső nézővel oszthatunk meg élőben.
 
-{% hint style="info" %}
+### **Biztonság mindenek előtt!**&#x20;
+
+* Kommunikáció a végpontok között katonai szintű titkosítással védett csatornákon zajlik.&#x20;
+* A szervereken tárolt adatok is katonai szinten titkosított partíciókon tárolódnak.&#x20;
+* Semmilyen adat nem kerül megosztásra harmadik féllel.
+* Belépéshez vagy regisztrációhoz a legbiztonságosabb Oauth kulcspár ellenőrzés is használható a hagyományos felhasználónév-jelszó páros megadása mellett /helyett.
+
+{% hint style="success" %}
 Szeretnéd kipróbálni? Látogasd meg weboldalunkat, ([meets.team](https://meets.team/b/signup)) regisztrálj! és 14 napig ingyen kipróbálhatod.
 {% endhint %}
 
@@ -34,7 +41,7 @@ A WebRTC egy szabvány, amelyet minden nagyobb böngésző támogat, beleértve 
 
 ## Mobil támogatás
 
-A Meets reszponzív felhasználói felületete (UI) úgy lett tervezve, hogy minden mobil felületen használható legyen. Az asztali számítógépekhez hasonlóan itt sincs letöltendő vagy telepítendő mobilalkalmazás. A Meets a mobilböngészőben fut.
+A Meets reszponzív felhasználói felületete (UI) úgy lett tervezve, hogy mindenféle mobil eszközön használható legyen. Az asztali számítógépekhez hasonlóan itt sincs letöltendő vagy telepítendő mobilalkalmazás. A Meets a mobil böngészőjében fut.
 
 Futtatás minimális követelménye iOS 12.2+ vagy Android 6.0+ verzió. A munkamenethez való csatlakozáshoz kattints egy linkre a mobil mail rendszerében, vagy másold a linket a böngészőbe és a Meets a Safarin (iOS) vagy a Google Chrome-on (Android) futni fog.
 
@@ -42,11 +49,11 @@ Futtatás minimális követelménye iOS 12.2+ vagy Android 6.0+ verzió. A munka
 
 ![Iphone 12, IOS 15.3](.gitbook/assets/IMG\_6711.PNG)
 
-A mobil kliensekre vonatkozó egyetlen korlátozás az, hogy a mobil böngészők nem támogatják a mobil képernyőjének megosztását (bár megtekintheti egy másik felhasználó képernyőmegosztását).
+A mobil kliensekre vonatkozó egyetlen korlátozás az, hogy a mobil böngészők nem támogatják a mobil képernyőjének megosztását (ugyanakkor megtekintheti egy másik felhasználó képernyőmegosztását).
 
 ## Online tanuláshoz, nagyobb előadások megtartásához tervezve
 
-A Meets számos alapvető webkonferencia funkciót kibővít, hogy lehetővé tegye az oktató/előadó számára a hallgatók/résztvevők bevonását. Az interakcióknak négy fő esete van:
+A Meets számos alapvető webkonferencia funkciót kibővít, hogy lehetővé tegye az oktató/előadó számára a hallgatók/résztvevők bevonását.  Négy főbb felhasználási mód:
 
 1. Virtuális iroda (egyenrangú megbeszélés)
 2. Megfordított osztályterem (A felvett anyag tanulmányozása után történő konzultációval)
@@ -65,7 +72,7 @@ Oktató / Előadói munkát a következő interakciókkal segíti a Meets:
 * Diktálás, feliratozás
 * Csevegés (csoportos/privát)
 
-Az interakciók célja a tanulás elősegítése a [Bloom-féle taxonómia](https://en.wikipedia.org/wiki/Bloom's\_taxonomy) keretrendszer szerint. Ilyenek az olyan tevékenységek, amelyek hatására a felhasználó felidézi (például szavazásra válaszol), demonstrál (például többfelhasználós tábla használata), jelentkezik (például a szekciószobákban) vagy kérdéseket tesz fel. (például nyilvános csevegés használatával)  Minél többet foglalkoznak a tanulókkal, annál többet gondolkodnak és tanulnak.
+Az interakciók célja a tanulás elősegítése a [Bloom-féle taxonómia](https://en.wikipedia.org/wiki/Bloom's\_taxonomy) keretrendszer szerint. Ilyenek az olyan tevékenységek, amelyek hatására a felhasználó felidézi (például szavazásra válaszol), demonstrál (például többfelhasználós tábla használata), jelentkezik (például a csoportszobákban) vagy kérdéseket tesz fel. (például nyilvános csevegés használatával)  Minél többet foglalkoznak a tanulókkal, annál többet gondolkodnak és tanulnak.
 
 Ezek a funkciók hasznosak az üzleti megbeszéléseken, videocsevegéseken vagy audiokonferenciákon – de a leghasznosabbak a felhasználók online oktatása, vagy egy nagyobb előadás során.
 
@@ -73,32 +80,32 @@ Ezek a funkciók hasznosak az üzleti megbeszéléseken, videocsevegéseken vagy
 
 ### Termek
 
-A Meetsben a megbeszélések/előadások **Termekben** zajlanak. Minden Terem egyedi elérhetőséggel, linkkel rendelkezik: A Terembe három féle képpen léphetünk be aszerint, ahogy a teremhez rendelt **Szervezők** beállítják azt még az előadás megkezdése előtt.
+A Meetsben a megbeszélések/előadások **Termekben** történnek. Minden Terem egyedi elérhetőséggel, linkkel rendelkezik: A Terembe belépést 3 biztonsági fokozaton keresztül tudod szabályozni..
 
-1. A link birtokában egyszerűen
+1. A link birtokában szabadon
 2. Link és egy jelszó birtokában
 3. Előszobán keresztül. _(Link és jelszó birtokában egy előszobába jutunk, ahonnan egyéb beazonosítás után lehet továbbjutni az előadásra.)_
 
 ### Felhasználói szerepkörök
 
-A terem **házigazdája** az aki létrehozta a termet. Tőle nem lehet a terem szervezői jogát megvonni. Ellenben Ő további **Szervezőket** tud hozzárendelni / törölni az  **előadáshoz**.
+A terem **házigazdája** az aki létrehozta a termet. Tőle nem lehet a terem szervezői jogát megvonni. Ellenben Ő további **Szervezőket** tud bevonni az  **előadáshoz**.
 
-#### 3 féle felasználót különböztetünk meg egy előadáson
+#### 2 féle felasználót különböztetünk meg egy előadáson
 
 1. A **Résztvevő** (például a tanuló) **** cseveghet, hangot és videót küldhet/fogadhat, válaszolhat a szavazásokra, megjeleníthet egy hangulatjelet (jelentkezhet), és részt vehet a csoportfoglalkozásokon, ha engedélyt kap rajzolhat a táblára. Kommunikálhat az előadóval, de csak annyira léphet kapcsolatba a többi résztvevővel, amennyire a szervező engedélyezi. Ha a Szervező úgy dönt, akkor beállíthatja, hogy a résztvevők még csak ne is lássák egymást.
 2. A **Szervező** (például az oktató) mindent megtehet, amit egy Résztvevő, és még többet. Elnémíthatja/feloldhatja a többi résztvevőt, lezárhatja a résztvevőket (például korlátozhatja őket a privát csevegésben), bármely felhasználót (beleértve saját magát) is beállíthatja az aktuális _**Előadóvá**_ , és csoportszobákat indíthat. Egy munkamenetben több szervező is lehet.
-3. **Előadó**
 
-Az előadó egy extra jogosultsági réteg, amely minden felhasználó számára lehetőséget biztosít erre
+Az **Előadó** egy extra jogosultság, amely bármely felhasználó részére plusz lehetőségeket biztosít:
 
-* Diák feltöltése
-* Használja a táblát bármely oldal megjegyzéséhez
-* Többfelhasználós tábla engedélyezése/letiltása
-* Start a poll
-* Ossza meg YouTube-, vimeo-, [peertube-](https://joinpeertube.org) vagy [Canvas Studio](https://community.canvaslms.com/community/answers/guides/studio-guide) -videót
-* Ossza meg a képernyőjét
+* Diákat tölthet fel
+* Használhatja a táblát és megjegyzéseket fűzhet a diákhoz
+* Többfelhasználós táblát engedélyezhet / tilthat
+* Szavazásokat indíthat
+* Megoszthat YouTube-, vimeo-, [peertube-](https://joinpeertube.org) vagy [Canvas Studio](https://community.canvaslms.com/community/answers/guides/studio-guide) -videókat
+* Megoszthatja a képernyőjét
+* Megadhatja a szót és el is veheti a résztvevőktől. (Egyszerre akár mindenkit elcsendesíthet)
 
-Egyszerre csak egy előadó lehet. Ismételten, bármely moderátor bármely felhasználót (beleértve önmagát is) az aktuális műsorvezetővé teheti.
+Egyszerre mindig csak egy előadó lehet a teremben. A szervező bármely felhasználót (beleértve önmagát is) előléptetheti előadóvá vagy visszavonhatja az előléptetést.
 
 Két áttekintő videót készítettünk – az egyiket a nézőknek, a másikat a moderátornak –, hogy megmutassuk, hogyan működnek a fenti funkciók.
 
