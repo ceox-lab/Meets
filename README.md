@@ -1,5 +1,5 @@
 ---
-description: A Meets több mint webkonferencia Rendszer
+description: A Meets egy webkonferencia rendszer és még több...
 cover: .gitbook/assets/joga1.jpg
 coverY: -210.69958847736623
 ---
@@ -55,12 +55,12 @@ A mobil kliensekre vonatkozó egyetlen korlátozás az, hogy a mobil böngésző
 
 ## Online tanuláshoz, nagyobb előadások megtartásához tervezve
 
-A Meets számos alapvető webkonferencia funkciót kibővít, hogy lehetővé tegye az oktató/előadó számára a hallgatók/résztvevők bevonását.  Négy főbb felhasználási mód:
+A Meets számos alapvető webkonferencia funkciót kibővít, hogy lehetővé tegye az oktató/előadó számára a hallgatók/résztvevők bevonását.  Négy főbb felhasználási terület:
 
-1. Virtuális iroda (egyenrangú megbeszélés)
+1. Hibrid iroda virtuális tárgyalóval
 2. Megfordított osztályterem (A felvett anyag tanulmányozása után történő konzultációval)
 3. Csoportos együttműködés (csoportonként akár eltérő feladatok kiosztása)
-4. Teljes online tanfolyamok
+4. Teljes online tanfolyamok / Előadás
 
 Oktató / Előadói munkát a következő interakciókkal segíti a Meets:
 
@@ -107,7 +107,7 @@ Az **Előadó** egy extra jogosultság, amely bármely felhasználó részére p
 * Megoszthatja a képernyőjét
 * Megadhatja a szót és el is veheti a résztvevőktől. (Egyszerre akár mindenkit elcsendesíthet)
 
-Egyszerre mindig csak egy előadó lehet a teremben. A szervező bármely felhasználót (beleértve önmagát is) előléptetheti előadóvá vagy visszavonhatja az előléptetést.
+Egyszerre mindig csak egy előadó lehet a teremben. A szervező bármely felhasználót (beleértve önmagát is) előléptetheti előadóvá vagy visszavonhatja az előléptetést. (Átadhatja a szót, vagy kihívhat a táblához résztvevőt.)
 
 Két áttekintő videót készítettünk – az egyiket a nézőknek, a másikat a moderátornak –, hogy megmutassuk, hogyan működnek a fenti funkciók.
 
@@ -135,16 +135,16 @@ Két áttekintő videót készítettünk – az egyiket a nézőknek, a másikat
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="felhasznalasi-terueletek/oktatas.md" %}
-[oktatas.md](felhasznalasi-terueletek/oktatas.md)
+{% content-ref url="fobb-felhasznalasi-terueletek/teljes-tanfolyam-eloadas.md" %}
+[teljes-tanfolyam-eloadas.md](fobb-felhasznalasi-terueletek/teljes-tanfolyam-eloadas.md)
 {% endcontent-ref %}
 
-{% content-ref url="felhasznalasi-terueletek/hibrid-munka.md" %}
-[hibrid-munka.md](felhasznalasi-terueletek/hibrid-munka.md)
+{% content-ref url="fobb-felhasznalasi-terueletek/hibrid-iroda-virtualis-targyaloval.md" %}
+[hibrid-iroda-virtualis-targyaloval.md](fobb-felhasznalasi-terueletek/hibrid-iroda-virtualis-targyaloval.md)
 {% endcontent-ref %}
 
-{% content-ref url="felhasznalasi-terueletek/megbeszeles.md" %}
-[megbeszeles.md](felhasznalasi-terueletek/megbeszeles.md)
+{% content-ref url="fobb-felhasznalasi-terueletek/csoportos-egyuettmukoedes.md" %}
+[csoportos-egyuettmukoedes.md](fobb-felhasznalasi-terueletek/csoportos-egyuettmukoedes.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

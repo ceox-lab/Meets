@@ -2,11 +2,12 @@
 
 * [Mi a Meets?](README.md)
 
-## Felhasználási területek
+## Főbb felhasználási területek
 
-* [Hibrid munka](felhasznalasi-terueletek/hibrid-munka.md)
-* [Oktatás vagy prezentálás](felhasznalasi-terueletek/oktatas.md)
-* [Megbeszélés](felhasznalasi-terueletek/megbeszeles.md)
+* [Hibrid iroda virtuális tárgyalóval](fobb-felhasznalasi-terueletek/hibrid-iroda-virtualis-targyaloval.md)
+* [Megfordított osztályterem](fobb-felhasznalasi-terueletek/megforditott-osztalyterem.md)
+* [Csoportos együttműködés](fobb-felhasznalasi-terueletek/csoportos-egyuettmukoedes.md)
+* [Teljes tanfolyam / Előadás](fobb-felhasznalasi-terueletek/teljes-tanfolyam-eloadas.md)
 
 ## Szolgáltatás árak
 
