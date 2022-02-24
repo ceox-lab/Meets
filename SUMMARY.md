@@ -17,14 +17,13 @@
 ## Nem árt, ha tudod
 
 * [Ajánlott futtatási környezet](nem-art-ha-tudod/ajanlott-futtatasi-koernyezet.md)
-* [Terminológiánk](nem-art-ha-tudod/terminologiank.md)
 * [Skálázhatóság](nem-art-ha-tudod/skalazhatosag.md)
+* [Terminológiánk](nem-art-ha-tudod/terminologiank.md)
 * [Összehasonlítás](nem-art-ha-tudod/oesszehasonlitas.md)
 
 ## Használati útmutató
 
-* [Résztvevőknek](hasznalati-utmutato/resztvevoknek/README.md)
-  * [Terminológia](hasznalati-utmutato/resztvevoknek/terminologia.md)
+* [Résztvevőknek](hasznalati-utmutato/resztvevoknek.md)
 * [Szervezőknek](hasznalati-utmutato/szervezoknek.md)
 * [Előadóknak](hasznalati-utmutato/eloadoknak.md)
 

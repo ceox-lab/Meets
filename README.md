@@ -16,7 +16,7 @@ A megosztás minősége lenyűgöző. UHD videóátvitellel és CD minőségű h
 
 * Kommunikáció a végpontok között katonai szintű titkosítással védett csatornákon zajlik.&#x20;
 * A szervereken tárolt adatok is katonai szinten titkosított partíciókon tárolódnak.&#x20;
-* Semmilyen adat nem kerül megosztásra harmadik féllel. Üzemeltető a [`Ceox`](https://www.ceox.hu).
+* Semmilyen adat nem kerül megosztásra harmadik féllel.
 * Belépéshez vagy regisztrációhoz a legbiztonságosabb Oauth kulcspár ellenőrzés is használható a hagyományos felhasználónév-jelszó páros megadása mellett / helyett.
 * A Rendszer hiba és terheléstűrő (99.99% SLO)
 * A Rendszer a résztvevő fizikai helyéhez legközelebbi szervert választja ki automatikusan a kommunikációhoz.
@@ -135,12 +135,12 @@ Két áttekintő videót készítettünk – az egyiket a nézőknek, a másikat
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="fobb-felhasznalasi-terueletek/teljes-tanfolyam-eloadas.md" %}
-[teljes-tanfolyam-eloadas.md](fobb-felhasznalasi-terueletek/teljes-tanfolyam-eloadas.md)
-{% endcontent-ref %}
-
 {% content-ref url="fobb-felhasznalasi-terueletek/hibrid-iroda-virtualis-targyaloval.md" %}
 [hibrid-iroda-virtualis-targyaloval.md](fobb-felhasznalasi-terueletek/hibrid-iroda-virtualis-targyaloval.md)
+{% endcontent-ref %}
+
+{% content-ref url="fobb-felhasznalasi-terueletek/teljes-tanfolyam-eloadas.md" %}
+[teljes-tanfolyam-eloadas.md](fobb-felhasznalasi-terueletek/teljes-tanfolyam-eloadas.md)
 {% endcontent-ref %}
 
 {% content-ref url="fobb-felhasznalasi-terueletek/csoportos-egyuettmukoedes.md" %}
@@ -155,8 +155,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="hasznalati-utmutato/resztvevoknek/" %}
-[resztvevoknek](hasznalati-utmutato/resztvevoknek/)
+{% content-ref url="hasznalati-utmutato/resztvevoknek.md" %}
+[resztvevoknek.md](hasznalati-utmutato/resztvevoknek.md)
 {% endcontent-ref %}
 
 {% content-ref url="hasznalati-utmutato/szervezoknek.md" %}
@@ -167,8 +167,8 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [eloadoknak.md](hasznalati-utmutato/eloadoknak.md)
 {% endcontent-ref %}
 
-{% content-ref url="hasznalati-utmutato/resztvevoknek/terminologia.md" %}
-[terminologia.md](hasznalati-utmutato/resztvevoknek/terminologia.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}
