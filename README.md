@@ -71,19 +71,23 @@ Ezek a funkciók hasznosak az üzleti megbeszéléseken, videocsevegéseken vagy
 
 ## Meets terminológia
 
-A Meetsben a megbeszélések **Termekben** zajlanak.Minden Terem egyedi elérhetőséggel, linkkel rendelkezik: A Terembe háromféle képpen léphetünk be aszerint, ahogy a teremhez rendelt **Szervezők** beállítják.&#x20;
+### Termek
+
+A Meetsben a megbeszélések/előadások **Termekben** zajlanak. Minden Terem egyedi elérhetőséggel, linkkel rendelkezik: A Terembe három féle képpen léphetünk be aszerint, ahogy a teremhez rendelt **Szervezők** beállítják azt még az előadás megkezdése előtt.
 
 1. A link birtokában egyszerűen
 2. Link és egy jelszó birtokában
 3. Előszobán keresztül. _(Link és jelszó birtokában egy előszobába jutunk, ahonnan egyéb beazonosítás után lehet továbbjutni az előadásra.)_
 
-A terem fő **szervezője**, tulajdonosa, az az előfizető, aki létrehozta a termet. Ő további **Szervezőket** / **moderátorokat** tudnak kijelölni az **előadáshoz**.
+### Felhasználói szerepkörök
 
-Az Előadó egy kitüntetett résztvevője az előadásnak. (Ő preentál,) Belőle mindig 1 van egy teremben. A szervezők bárkit, akár magukat is előléptethetik előadóvá,&#x20;
+A terem **házigazdája** az aki létrehozta a termet. Tőle nem lehet a terem szervezői jogát megvonni. Ellenben Ő további **Szervezőket** tud hozzárendelni / törölni az  **előadáshoz**.
 
-A **Résztvevő** (például a tanuló) **** cseveghet, hangot és videót küldhet/fogadhat, válaszolhat a szavazásokra, megjeleníthet egy hangulatjelet (jelentkezhet), és részt vehet a csoportfoglalkozásokon, ha engedélyt kap rajzolhat a táblára. Kommunikálhat az előadóval, de csak annyira léphet kapcsolatba a többi résztvevővel, amennyire a szervező engedélyezi. Ha a Szervező úgy dönt, akkor beállíthatja, hogy a résztvevők még csak ne is lássák egymást.
+#### 3 féle felasználót különböztetünk meg egy előadáson
 
-* A **Szervező** (például az oktató) mindent megtehet, amit egy Résztvevő, és még többet. Elnémíthatja/feloldhatja a többi résztvevőt, lezárhatja a nézőket (például korlátozhatja őket a privát csevegésben), bármely felhasználót (beleértve saját magát) is beállíthatja az aktuális _műsorvezetővé_ , és szekciószobákat indíthat. Egy munkamenetben több moderátor is lehet.
+1. A **Résztvevő** (például a tanuló) **** cseveghet, hangot és videót küldhet/fogadhat, válaszolhat a szavazásokra, megjeleníthet egy hangulatjelet (jelentkezhet), és részt vehet a csoportfoglalkozásokon, ha engedélyt kap rajzolhat a táblára. Kommunikálhat az előadóval, de csak annyira léphet kapcsolatba a többi résztvevővel, amennyire a szervező engedélyezi. Ha a Szervező úgy dönt, akkor beállíthatja, hogy a résztvevők még csak ne is lássák egymást.
+2. A **Szervező** (például az oktató) mindent megtehet, amit egy Résztvevő, és még többet. Elnémíthatja/feloldhatja a többi résztvevőt, lezárhatja a résztvevőket (például korlátozhatja őket a privát csevegésben), bármely felhasználót (beleértve saját magát) is beállíthatja az aktuális _**Előadóvá**_ , és csoportszobákat indíthat. Egy munkamenetben több szervező is lehet.
+3. **Előadó**
 
 Az előadó egy extra jogosultsági réteg, amely minden felhasználó számára lehetőséget biztosít erre
 
