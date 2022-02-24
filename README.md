@@ -6,7 +6,7 @@ coverY: -210.69958847736623
 
 # Mi a Meets?
 
-## A Meets egy kapcsolat a világon több tízezer elégedett ügyféllel, és most már veled is.
+## A Meets kapcsolat a világon több tízezer elégedett ügyféllel, és most már veled is.
 
 A [**Meets-ben**](https://meets.team) minden olyan alapvető funkció megtalálható, amely egy kereskedelmi webkonferencia-rendszertől elvárható, beleértve a hang, videó, prezentáció és képernyő valós idejű megosztását – valamint az együttműködési eszközöket, például a chat. (nyilvános és privát), tábla, megosztott jegyzetek, szavazó- és szekciószobák, diktálás. A munkamenetei rögzíthetőek későbbi lejátszáshoz. Támogatott egy felhasználó több kemera használata egyszerre.
 
