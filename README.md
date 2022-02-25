@@ -22,7 +22,7 @@ A megosztás minősége lenyűgöző. UHD videóátvitellel és CD minőségű h
 * A Rendszer a résztvevő fizikai helyéhez legközelebbi szervert választja ki automatikusan a kommunikációhoz.
 
 {% hint style="info" %}
-Szeretnéd kipróbálni? Látogasd meg weboldalunkat, ([meets.team](https://meets.team/b/signup)) regisztrálj! és 14 napig ingyen kipróbálhatod.
+Szeretnéd kipróbálni? Látogasd meg weboldalunkat, ([meets.team](https://meets.team/b/signup)) regisztrálj! és 5 napig ingyen kipróbálhatod.
 {% endhint %}
 
 ## Áttekintés
@@ -39,7 +39,7 @@ A WebRTC egy szabvány, amelyet minden nagyobb böngésző támogat, beleértve 
 
 Íme egy képernyőkép a Google Chrome-ban futó Meets előadásról:
 
-![Balról jobbra láthatjod a munkamenetben részt vevő felhasználók listáját, a csevegési területet, a prezentációs területet (melyet az aktuális előadó frissíthet), egy webkamera képét és az E-táblát és eszközeit.](<.gitbook/assets/Screenshot 2022-02-23 21.59.33.png>)
+![Balról jobbra láthatjod a munkamenetben részt vevő felhasználók listáját, a csevegési területet, a prezentációs területet (melyet az aktuális előadó frissíthet), egy webkamera képét és az E-táblát és eszközeit.](<.gitbook/assets/Screenshot 2022-02-25 11.34.48.png>)
 
 ## Mobil támogatás
 
@@ -111,27 +111,9 @@ Egyszerre mindig csak egy előadó lehet a teremben. A szervező bármely felhas
 
 Két áttekintő videót készítettünk – az egyiket a nézőknek, a másikat a moderátornak –, hogy megmutassuk, hogyan működnek a fenti funkciók.
 
-**Got 2 minutes?** Check out a video overview of our product:
+**Van 2 perced?** Nézd meg videóinkat:
 
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
-
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
-
-<details>
-
-<summary>fdfdfdfdfd fd df</summary>
-
-&#x20; fd df dfdf df&#x20;
-
-&#x20;fd df df df df&#x20;
-
-
-
-</details>
-
-### Guides: Jump right in
+### blablabla
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
