@@ -8,16 +8,16 @@ coverY: -210.69958847736623
 
 ## A Meets kapcsolat a világon több tízezer elégedett ügyféllel, és most már veled is.
 
-A [**Meets-ben**](https://meets.team) minden olyan alapvető funkció megtalálható, amely egy kereskedelmi webkonferencia-rendszertől elvárható, beleértve a hang, videó, prezentáció és képernyő valós idejű megosztását – valamint az együttműködési eszközöket, például a chat. (nyilvános és privát), tábla, megosztott jegyzetek, szavazó- és szekciószobák, diktálás. A munkamenetei rögzíthetőek későbbi lejátszáshoz. Támogatott egy felhasználó több kemera használata egyszerre.
+A [**Meets-ben**](https://meets.team) minden olyan alapvető funkció megtalálható, amely egy kereskedelmi webkonferencia-rendszertől elvárható, beleértve a hang, videó, prezentáció és képernyő valós idejű megosztását – valamint az együttműködési eszközöket, például a chat. (nyilvános és privát), tábla, megosztott jegyzetek, szavazás- és csoportszobák, diktálás. A munkamenetei rögzíthetőek későbbi lejátszáshoz. **Támogatott a felhasználónkénti egyszerre több kemera használata.**
 
-A megosztás minősége lenyűgöző. UHD videóátvitellel és CD minőségű hanggal akár 1000 aktív résztvevőnek lehetősége van bekapcsolódni a konferenciába, melyet több millió külső nézővel oszthatunk meg élőben.
+A megosztás minősége lenyűgöző. UHD videóátvitellel és CD minőségű hanggal akár 1000 aktív résztvevőnek lehetősége van bekapcsolódni a konferenciába, melyet akár több millió külső nézővel is megoszthatunk élőben.
 
 ### **Biztonság és robosztusság mindenek előtt!**&#x20;
 
 * Kommunikáció a végpontok között katonai szintű titkosítással védett csatornákon zajlik.&#x20;
 * A szervereken tárolt adatok is katonai szinten titkosított partíciókon tárolódnak.&#x20;
 * Semmilyen adat nem kerül megosztásra harmadik féllel.
-* Belépéshez vagy regisztrációhoz a legbiztonságosabb Oauth kulcspár ellenőrzés is használható a hagyományos felhasználónév-jelszó páros megadása mellett / helyett.
+* Belépéshez vagy regisztrációhoz a legbiztonságosabb Microsoft vagy Google kulcspár ellenőrzése is használható a hagyományos felhasználónév-jelszó páros megadása helyett.
 * A Rendszer hiba és terheléstűrő (99.99% SLO)
 * A Rendszer a résztvevő fizikai helyéhez legközelebbi szervert választja ki automatikusan a kommunikációhoz.
 
@@ -82,11 +82,11 @@ Az interakciók célja a tanulás elősegítése a [Bloom-féle taxonómia](http
 
 ### Termek
 
-A Meetsben a megbeszélések/előadások **Termekben** történnek. Minden Terem egyedi elérhetőséggel, linkkel rendelkezik: A Terembe belépést 3 biztonsági fokozaton keresztül tudod szabályozni..
+A Meetsben a megbeszélések/előadások virtuális **Termekben** történnek. Minden Terem egyedi elérhetőséggel, linkkel rendelkezik: A Terembe belépést 3 biztonsági fokozaton keresztül tudod szabályozni..
 
-1. A link birtokában szabadon
-2. Link és egy jelszó birtokában
-3. Előszobán keresztül. _(Link és jelszó birtokában egy előszobába jutunk, ahonnan egyéb beazonosítás után lehet továbbjutni az előadásra.)_
+1. A link birtokában szabadon beléphetnek a meghívottak
+2. Link és egy jelszó birtokában léphetnek be a meghívottak
+3. Előszobán keresztül. _(Link és jelszó birtokában egy előszobába jutunk, ahonnan kizárólag Szervezői jóváhagyással tudunk továbbjutni az előadásra.)_
 
 ### Felhasználói szerepkörök
 
@@ -95,9 +95,10 @@ A terem **házigazdája** az aki létrehozta a termet. Tőle nem lehet a terem s
 #### 2 féle felasználót különböztetünk meg egy előadáson
 
 1. A **Résztvevő** (például a tanuló) **** cseveghet, hangot és videót küldhet/fogadhat, válaszolhat a szavazásokra, megjeleníthet egy hangulatjelet (jelentkezhet), és részt vehet a csoportfoglalkozásokon, ha engedélyt kap rajzolhat a táblára. Kommunikálhat az előadóval, de csak annyira léphet kapcsolatba a többi résztvevővel, amennyire a szervező engedélyezi. Ha a Szervező úgy dönt, akkor beállíthatja, hogy a résztvevők még csak ne is lássák egymást.
-2. A **Szervező** (például az oktató) mindent megtehet, amit egy Résztvevő, és még többet. Elnémíthatja/feloldhatja a többi résztvevőt, lezárhatja a résztvevőket (például korlátozhatja őket a privát csevegésben), bármely felhasználót (beleértve saját magát) is beállíthatja az aktuális _**Előadóvá**_ , és csoportszobákat indíthat. Egy munkamenetben több szervező is lehet.
+2. A **Házigazda** kijelölhet tetszölegesen szervezőket az előadásához vagy valamelyik terméhez. A Szervezői státusz szólhat 1 alkalomra egy előadáshoz. Ekkor az előadás befejeztével a státusz is automatikusan megszűnik. Vagy szólhat hosszabb időre is a státusz, ha nem előadáshoz, hanem teremhez rendeljük, ugyanis ekkor a státusz a visszavonásig szól, és nem szűnik meg automatikusan. \
+   A **Szervező** (például az oktató) mindent megtehet, amit egy Résztvevő, és még többet. Elnémíthatja/feloldhatja a többi résztvevőt, lezárhatja a résztvevőket (például korlátozhatja őket a privát csevegésben), bármely felhasználót (beleértve saját magát) is előléptetheti az aktuális _**Előadóvá**_ , és csoportszobákat indíthat. Egy munkamenetben több szervező is lehet.
 
-Az **Előadó** egy extra jogosultság, amely bármely felhasználó részére plusz lehetőségeket biztosít:
+Az **Előadó** egy olyan extra jogosultság, amely bármely felhasználó részére plusz lehetőségeket biztosít:
 
 * Diákat tölthet fel
 * Használhatja a táblát és megjegyzéseket fűzhet a diákhoz
