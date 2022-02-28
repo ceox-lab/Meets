@@ -10,7 +10,7 @@ A szervezetek sikere szempontjából világszerte át kell hidalni a személyes 
 
 ## Együttműködés
 
-A csúcsminőségű <mark style="color:green;">**Meets**</mark> videókonferencia rendszer kiváló minőségű hangot és videóképet nyújtva segíti, hogy minden csapattag jól látható és hallható legyen a megbeszéléseken.&#x20;
+A csúcsminőségű [<mark style="color:green;">**Meets**</mark>](https://meets.team) videókonferencia rendszer kiváló minőségű hangot és videóképet nyújtva segíti, hogy minden csapattag jól látható és hallható legyen a megbeszéléseken.&#x20;
 
 A tárgyalótermek kamerái nagy felbontású videóközvetítésekre használhatók.&#x20;
 

@@ -33,7 +33,7 @@ Rendelkezésre állnak interfészek a következő rendszerekhez: Atutor, Canvas,
 
 &#x20;A Meets egy HTML5-alapú webalkalmazás. Ellentétben a legtöbb webkonferencia-rendszerrel, amelyhez szoftver telepítése szükséges, a Meets a webböngészőben fut. A munkamenethez csatlakozáshoz elég rákattintani a Teremhez generált megosztható linkre.
 
-Nincs letöltendő plugin, nincs telepítendő szoftver. A Meets kiváló minőségű hang-, videó- ​​és képernyőmegosztást biztosít a böngésző beépített webes valós idejű kommunikációs (WebRTC) könyvtárainak támogatásával.
+Nincs letöltendő program, nincs telepítendő szoftver. A Meets kiváló minőségű hang-, videó- ​​és képernyőmegosztást biztosít a böngésző beépített webes valós idejű kommunikációs (WebRTC) könyvtárainak támogatásával.
 
 A WebRTC egy szabvány, amelyet minden nagyobb böngésző támogat, beleértve a Chrome-ot, a FireFox-ot, a Safarit és a Safari Mobile-t. A legjobb eredmény elérése érdekében asztali számítógépeken és laptopokon a Chrome, a Microsoft Edge vagy a Firefox használatát javasoljuk. Chromebookokhoz pedig a beépített Chromeot.
 
