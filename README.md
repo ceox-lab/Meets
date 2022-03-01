@@ -14,12 +14,13 @@ A megosztás minősége lenyűgöző. UHD videóátvitellel és CD minőségű h
 
 ### **Biztonság és robosztusság mindenek előtt!**&#x20;
 
-* Kommunikáció a végpontok között katonai szintű titkosítással védett csatornákon zajlik.&#x20;
-* A szervereken tárolt adatok is katonai szinten titkosított partíciókon tárolódnak.&#x20;
+* Kommunikáció a végpontok között legmagasabb szintű titkosítással védett csatornákon zajlik.&#x20;
+* A szervereken tárolt adatok is magas szintű, kulcsokkal védett titkosított partíciókon tárolódnak.&#x20;
 * Semmilyen adat nem kerül megosztásra harmadik féllel.
-* Belépéshez vagy regisztrációhoz a legbiztonságosabb Microsoft vagy Google kulcspár ellenőrzése is használható a hagyományos felhasználónév-jelszó páros megadása helyett.
+* Belépéshez vagy regisztrációhoz biztonságos Microsoft vagy Google hitelesítés is használható a hagyományos felhasználónév-jelszó páros megadása helyett.
 * A Rendszer hiba és terheléstűrő (99.99% SLO)
 * A Rendszer a résztvevő fizikai helyéhez legközelebbi szervert választja ki automatikusan a kommunikációhoz.
+* A GDPR előírások maximális betartása mellett működünk.
 
 {% hint style="info" %}
 Szeretnéd kipróbálni? Látogasd meg weboldalunkat, ([meets.team](https://meets.team/b/signup)) regisztrálj! és 5 napig ingyen kipróbálhatod.
