@@ -6,7 +6,7 @@ coverY: -210.69958847736623
 
 # Mi a Meets?
 
-## A Meets egy kapcsolat a világon több tízezer elégedett résztvevővel, és most már veled is.
+## ... kapcsolat a világon több tízezer elégedett résztvevő közt, és most már veled is.
 
 A [**Meets-ben**](https://meets.team) minden olyan alapvető funkció megtalálható, amely egy kereskedelmi webkonferencia-rendszertől elvárható, beleértve a hang, videó, prezentáció és képernyő valós idejű megosztását – valamint az együttműködési eszközöket, például a chat. (nyilvános és privát), tábla, megosztott jegyzetek, szavazás- és csoportszobák, diktálás. A munkamenetei rögzíthetőek későbbi lejátszáshoz. **Támogatott a felhasználónkénti egyszerre több kemera használata.**
 
@@ -150,11 +150,3 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 {% content-ref url="hasznalati-utmutato/eloadoknak.md" %}
 [eloadoknak.md](hasznalati-utmutato/eloadoknak.md)
 {% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}
